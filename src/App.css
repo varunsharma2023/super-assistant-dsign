@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.demo-logo {
+  display: flex;
+  flex-direction: row;
+}
+
+.profile {
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
